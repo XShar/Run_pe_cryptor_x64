@@ -1,3 +1,3 @@
 #pragma once 
-#define START_MORPH_CODE 6
-#define END_MORPH_CODE 13
+#define START_MORPH_CODE 4
+#define END_MORPH_CODE 11
